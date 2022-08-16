@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="IRIS" type="setData" name="setData" output="screen"></node>
+    <node pkg="IRIS" type="getData" name="getData" output="screen"></node>
+
+</launch>

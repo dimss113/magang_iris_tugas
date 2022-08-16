@@ -1,0 +1,2 @@
+IRIS
+-DCATKIN_DEVEL_PREFIX=/home/dimasf/tugas_magang_iris/devel -DCMAKE_INSTALL_PREFIX=/home/dimasf/tugas_magang_iris/install -G Unix Makefiles
