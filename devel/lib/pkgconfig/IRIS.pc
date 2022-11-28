@@ -1,8 +1,0 @@
-prefix=/home/dimasf/tugas_magang_iris/devel
-
-Name: IRIS
-Description: Description of IRIS
-Version: 0.0.0
-Cflags: -I/home/dimasf/tugas_magang_iris/devel/include -I/home/dimasf/tugas_magang_iris/src/IRIS/include
-Libs: -L${prefix}/lib -lIRIS
-Requires: roscpp rospy std_msgs message_runtime
